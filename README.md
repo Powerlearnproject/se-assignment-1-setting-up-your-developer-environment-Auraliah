@@ -63,14 +63,39 @@ Step - 3 Installation in Process
 
 7. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+   To download and install MySQL 5.7 on Windows, follow these steps:
 
-8. Set Up Development Environments and Virtualization (Optional):
+Go to the MySQL 5.7 download page.
+
+Choose the appropriate version:
+
+Click "Download" and follow the instructions to save the installer file.
+I got an error
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/0bfebe3a-c96c-45be-b1a6-f22d14db9b8b)
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/e03e1c28-2d01-4701-8ae7-b9fea382b255)
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/4eb4a5ca-b1e6-44a7-9323-9ce7604f5ca9)
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/da9f3b1c-3d70-4863-bc00-08fc6691efde)
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/a79277bf-8914-4e98-b0c2-9afb360b1e33)
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/afe61521-f6b7-4c47-99bb-274145977864)
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/40e55b92-a87c-4860-942e-cfdaac69b78c)
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/ec4b4661-8087-422f-9a40-4b62205cf5b1)
+
+
+
+
+Run the downloaded MSI installer and follow the installation wizard to complete the setup.
+
+9. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-9. Explore Extensions and Plugins:
+10. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-10. Document Your Setup:
+11. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
