@@ -83,6 +83,10 @@ I got an error
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/afe61521-f6b7-4c47-99bb-274145977864)
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/40e55b92-a87c-4860-942e-cfdaac69b78c)
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/ec4b4661-8087-422f-9a40-4b62205cf5b1)
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/608d109a-8dcc-4ed7-8599-267a884181b8)
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/cfd31487-9004-4196-ae67-0557f376b0e4)
+
+
 
 
 
