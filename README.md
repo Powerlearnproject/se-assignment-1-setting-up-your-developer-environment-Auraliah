@@ -95,11 +95,19 @@ Run the downloaded MSI installer and follow the installation wizard to complete 
 
 9. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
+   Step 1
+   Download Docker from by visiting Docker website.
+   ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/9efa7925-0b14-4e62-8342-56580705158a)
 
-10. Explore Extensions and Plugins:
+   Sign in
+   ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/1eb8955f-7322-41e1-b697-1b2409ff57d2)
+
+
+
+11. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-11. Document Your Setup:
+12. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
