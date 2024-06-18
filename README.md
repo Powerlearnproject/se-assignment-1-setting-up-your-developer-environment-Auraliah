@@ -106,8 +106,44 @@ Run the downloaded MSI installer and follow the installation wizard to complete 
 
 11. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
+1. Visual Studio Code (VSCode)
+Visual Studio Code is a popular code editor known for its vast library of extensions. Here are some essential extensions for VSCode:
 
-12. Document Your Setup:
+Syntax Highlighting and Themes:
+
+One Dark Pro: A popular dark theme inspired by Atom.
+Dracula Official: A classic dark theme with vibrant colors.
+Linting and Code Formatting:
+
+ESLint: Integrates ESLint into VSCode, providing JavaScript linting.
+Prettier - Code Formatter: An opinionated code formatter that supports many languages.
+Version Control Integration:
+
+GitLens: Supercharges the built-in Git capabilities with powerful features like blame annotations, repository explorer, and more.
+Other Useful Extensions:
+
+Python: Rich support for the Python language, including features such as IntelliSense, linting, and debugging.
+Live Server: Launch a local development server with live reload feature for static & dynamic pages.
+2. JetBrains IntelliJ IDEA
+IntelliJ IDEA is a robust IDE for JVM languages but also supports a wide range of other languages and technologies. Here are some key plugins:
+
+Syntax Highlighting and Themes:
+
+Material Theme UI: A Material Design-inspired theme plugin with multiple color schemes.
+Rainbow Brackets: Adds rainbow colors to round brackets, square brackets, and curly brackets.
+Linting and Code Formatting:
+
+CheckStyle-IDEA: Integrates CheckStyle into the IDE to ensure your code adheres to a coding standard.
+Save Actions: Automatically optimize imports, reformat code, and more on save.
+Version Control Integration:
+
+GitToolBox: Adds various Git features like inline blame, commit status display, and more.
+Other Useful Plugins:
+
+Database Navigator: An extension to manage databases directly within IntelliJ IDEA.
+Python Community Edition: Adds Python support with rich features for Python development.
+
+13. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
