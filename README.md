@@ -89,6 +89,7 @@ Run the downloaded MSI installer and follow the installation wizard to complete 
 
 9. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
+
    Downloading Docker
    Step 1
    Download Docker from by visiting Docker website.
