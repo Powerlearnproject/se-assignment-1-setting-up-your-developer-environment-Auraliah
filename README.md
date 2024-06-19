@@ -70,7 +70,7 @@ Go to the MySQL 5.7 download page.
 Choose the appropriate version:
 
 Click "Download" and follow the instructions to save the installer file.
-I got an error
+I got an error at first, but later I was able to navigate.
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/0bfebe3a-c96c-45be-b1a6-f22d14db9b8b)
 
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/e03e1c28-2d01-4701-8ae7-b9fea382b255)
@@ -85,16 +85,11 @@ I got an error
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/ec4b4661-8087-422f-9a40-4b62205cf5b1)
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/608d109a-8dcc-4ed7-8599-267a884181b8)
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/cfd31487-9004-4196-ae67-0557f376b0e4)
-
-
-
-
-
-
 Run the downloaded MSI installer and follow the installation wizard to complete the setup.
 
 9. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
+   Downloading Docker
    Step 1
    Download Docker from by visiting Docker website.
    ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/9efa7925-0b14-4e62-8342-56580705158a)
@@ -142,23 +137,3 @@ Other Useful Plugins:
 
 Database Navigator: An extension to manage databases directly within IntelliJ IDEA.
 Python Community Edition: Adds Python support with rich features for Python development.
-
-13. Document Your Setup:
-    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
-
-#Deliverables:
-- Document detailing the setup process with step-by-step instructions and screenshots where necessary.
-- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-- A reflection on the challenges faced during setup and strategies employed to overcome them.
-
-#Submission:
-Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
-
-#Evaluation Criteria:**
-- Completeness and accuracy of setup documentation.
-- Effectiveness of version control implementation.
-- Appropriateness of tools selected for the project requirements.
-- Clarity of reflection on challenges and solutions encountered.
-- Adherence to submission guidelines and deadlines.
-
-Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
